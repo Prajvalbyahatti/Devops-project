@@ -31,8 +31,8 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> Thank You </h1>
+   <h1> Deploy-Check </h1>
    <br>
-   <h1>bye</h1>
+   <h1>Working fine</h1>
    
 </form>
